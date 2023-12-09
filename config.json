@@ -1,4 +1,3 @@
 {
-	"api": "https://wally.tijne.net",
-	"fallback_registries": []
+	"api": "https://wally.tijne.net/"
 }
