@@ -1,0 +1,1 @@
+{"package":{"name":"virtualbutfake/luau-regexp","version":"0.2.1","registry":"https://github.com/VirtualButFake/lune-registry","realm":"shared","description":null,"license":"MIT","authors":["jsdotlua","Roblox"],"include":[],"exclude":[],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
