@@ -1,0 +1,2 @@
+# This project has been archived.
+This project has been archived because I am no longer interested in maintaining it. I believe that the number of separate package managers for Lune has become too large, and the effectiveness of a package manager is greatest when a single one is widely adopted. Therefore, I have decided to archive this project in favor of more promising ones, such as [npmluau](https://github.com/seaofvoices/npmluau) and/or a standalone package manager that has been discussed in the Roblox OSS server.
